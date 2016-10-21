@@ -2,7 +2,7 @@
 layout: post
 title: "git 教程"
 description: ""
-category: 
+category: GIT
 tags: []
 ---
 {% include JB/setup %}
