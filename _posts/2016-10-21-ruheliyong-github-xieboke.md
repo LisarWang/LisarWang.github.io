@@ -30,8 +30,8 @@ cd LisarWang.github.io
 # III.提交修改
 
 - git stastus
-- git add-A
-- git commit-m"zhushi"
+- git add -A
+- git commit -m"zhushi"
 - git push origin master
 
 # IV.在浏览器中打开
