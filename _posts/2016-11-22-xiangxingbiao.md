@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构 第二章 线性表"
+title: "数据结构第二章线性表"
 description: ""
 category: 
 tags: []
